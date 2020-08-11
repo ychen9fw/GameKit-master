@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/gamekitdemo/build/
+/gamekitdemo/build/intermediates/javac/debug/classes/

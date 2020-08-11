@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GameKit-master.iml" filepath="$PROJECT_DIR$/GameKit-master.iml" group="GameKit-master" />
+      <module fileurl="file://$PROJECT_DIR$/gamekitdemo/gamekitdemo.iml" filepath="$PROJECT_DIR$/gamekitdemo/gamekitdemo.iml" group="GameKit-master/gamekitdemo" />
+    </modules>
+  </component>
+</project>
